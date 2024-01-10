@@ -25,11 +25,11 @@ After that you will receive another mail that says you to mention the name of th
 ---Is it all ?----
 No, once you mail them you will receive another official mail after 10-15 days..
 "CONGRATULATIONS YOU ARE A FACILITATOR" :trophy:	
-<img src="pic.jpeg">
+<br><img src="mail.jpeg">
 Once you accept the terms and conditions you can share it on twitter and other social platforms with #GoogleCloud.
 Another set of mails arrive in which one is for joining the Google Chat ( a platform where all the important information will be shared)
 also another mail that for attending a Google Cloud Onboarding Session which is a mandatory session.
-
+<br><img src="pic.jpeg">
 A brief about this program is given in this session. STILL THIS DOSEN'T MAKE YOU 100% SURE THAT YOU WILL BE A FACILTATOR THROUGHOUT THE PROGRAM!
 Once the session is completed you will be requested to complete a training, again it is a mandatory. So after completing this training you will start enrolling the students for the program.
 This whole process takes upto 2-3 weeks and that's when you should start collecting students for the program.
@@ -41,3 +41,4 @@ This whole process takes upto 2-3 weeks and that's when you should start collect
 Don't worry you will receive an official mail everyday so you can keep a track of everything and every student enrolled under you.
 
  ### Enjoy facilitating for next 2 months and share your swags :smiley:	
+<br><img src="swags.jpeg">
