@@ -8,8 +8,8 @@ The Google Cloud Ready facilitator Program now Arcade facilitator Program  is a 
 :medal_military:	Every student who wishes to become a facilitator must be a University enrolled student or a working professional who has the knowledge of Cloud and it's resources. Appreantly you must be a good leader because you have to manage a large number of students hence, an interactive idea of how to manage should be there
 ##How and when to apply ?
 :medal_military:	The facilitator INTEREST FORM is open throughout the year so you can apply anytime or wait for an official announcement which will be shared in our group.
-Link is here : https://docs.google.com/forms/d/e/1FAIpQLSdXOKw5-abi9HgS2TnwUafoH1B-G3C-HXAghAlcQcnj69JL8w/viewform?pli=1 <br>
-(this is the official link you can also find teh same link in the website : https://rsvp.withgoogle.com/events/arcade-facilitator/faqs ) <br>
+<b>Link is here :</b> https://docs.google.com/forms/d/e/1FAIpQLSdXOKw5-abi9HgS2TnwUafoH1B-G3C-HXAghAlcQcnj69JL8w/viewform?pli=1 <br>
+This is the official link you can also find the same link in the website : https://rsvp.withgoogle.com/events/arcade-facilitator/faqs ) <br>
 Eventually both are considered so there is no need to be stressed out that when the application is out.
 
 ## How to increase the chances of becoming a facilitator?
