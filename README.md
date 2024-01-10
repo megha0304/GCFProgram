@@ -25,7 +25,7 @@ After that you will receive another mail that says you to mention the name of th
 ---Is it all ?----
 No, once you mail them you will receive another official mail after 10-15 days..
 "CONGRATULATIONS YOU ARE A FACILITATOR" :trophy:	
-
+<img src="pic.jpeg">
 Once you accept the terms and conditions you can share it on twitter and other social platforms with #GoogleCloud.
 Another set of mails arrive in which one is for joining the Google Chat ( a platform where all the important information will be shared)
 also another mail that for attending a Google Cloud Onboarding Session which is a mandatory session.
