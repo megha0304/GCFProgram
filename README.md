@@ -9,7 +9,7 @@ The Google Cloud Ready facilitator Program now Arcade facilitator Program  is a 
 ##How and when to apply ?
 :medal_military:	The facilitator INTEREST FORM is open throughout the year so you can apply anytime or wait for an official announcement which will be shared in our group.
 <b>Link is here :</b> https://docs.google.com/forms/d/e/1FAIpQLSdXOKw5-abi9HgS2TnwUafoH1B-G3C-HXAghAlcQcnj69JL8w/viewform?pli=1 <br>
-This is the official link you can also find the same link in the website : https://rsvp.withgoogle.com/events/arcade-facilitator/faqs ) <br>
+This is the official link you can also find the same link in the website : https://rsvp.withgoogle.com/events/arcade-facilitator/faqs <br>
 Eventually both are considered so there is no need to be stressed out that when the application is out.
 
 ## How to increase the chances of becoming a facilitator?
@@ -25,6 +25,7 @@ After that you will receive another mail that says you to mention the name of th
 ---Is it all ?----
 No, once you mail them you will receive another official mail after 10-15 days..
 "CONGRATULATIONS YOU ARE A FACILITATOR" :trophy:	
+
 Once you accept the terms and conditions you can share it on twitter and other social platforms with #GoogleCloud.
 Another set of mails arrive in which one is for joining the Google Chat ( a platform where all the important information will be shared)
 also another mail that for attending a Google Cloud Onboarding Session which is a mandatory session.
