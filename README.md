@@ -1,11 +1,11 @@
 # GCFProgram
 If you wish to become a facilitator or want to know about the Google Cloud Facilitator Program.
-##Hello Future facilitators :tada:	
+## Hello Future facilitators :tada:	
 
 The Google Cloud Ready facilitator Program now Arcade facilitator Program  is a program launched by Google Cloud every year in the month of March and April and continiues till 2-3 months.The Arcade Facilitator Program is an always-on, no-cost gaming campaign where technical practitioners of all levels can learn new cloud skills like computing, application development, big data & AI/ML and earn digital badges & points to use towards claiming swag prizes and Google Cloud goodies. 
 
- ##Who can become a facilitator ?
-:medal_military:	Every student who wishes to become a facilitator must be a University enrolled student or a working professional who has the knowledge of Cloud and it's resources. Appreantly you must be a good leader because you have to manage a large number of students hence, an interactive idea of how to manage should be there
+ ## Who can become a facilitator ?
+:medal_military: Every student who wishes to become a facilitator must be a University enrolled student or a working professional who has the knowledge of Cloud and it's resources. Appreantly you must be a good leader because you have to manage a large number of students hence, an interactive idea of how to manage should be there
 ##How and when to apply ?
 :medal_military:	The facilitator INTEREST FORM is open throughout the year so you can apply anytime or wait for an official announcement which will be shared in our group.
 <b>Link is here :</b> https://docs.google.com/forms/d/e/1FAIpQLSdXOKw5-abi9HgS2TnwUafoH1B-G3C-HXAghAlcQcnj69JL8w/viewform?pli=1 <br>
